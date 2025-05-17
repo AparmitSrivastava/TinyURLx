@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <main className="bg-green-100">
+    <main className="bg-green-200">
       <section className="grid grid-cols-2 h-[82vh]">
 
         <div className="flex flex-col gap-4 items-center justify-center">
